@@ -2,9 +2,9 @@
 I'm <b>Sebastián Londero</b>, from Argentina. <br>
 I'm a <i>Full-Stack Web Developer</i> :computer: <br>
 who focus on <b>PHP-Laravel</b> and <b>React JS</b> technologies, <br>
-but constantly open to learn and apply several code lenguages. <br>
+but constantly open to learn and apply several code languages. <br>
 
-I also have a degree in Psychology  :mortar_board:,<br>
+I also have a Bachelor Degree in Psychology  :mortar_board:,<br>
 in which I have worked in the last years.
 
 However, I decided to dedicate myself to this exciting new profession. <br>
