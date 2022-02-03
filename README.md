@@ -1,6 +1,6 @@
 👋 Hi, <b>thanks</b> for visit my GitHub repository! :octocat: <br>
 I'm <b>Sebastián Londero</b>, from Argentina. <br>
-I'm a <i>Full-Stack Web Developer</i> :computer: <br>
+I'm a Certified <i>Full-Stack Web Developer</i> :computer: <br>
 
 <!-- who focus on <b>PHP-Laravel</b> and <b>React JS</b> technologies, <br> -->
 <!-- but constantly open to learn and apply several code languages. <br> -->
