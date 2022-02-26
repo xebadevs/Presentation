@@ -14,7 +14,7 @@ You can contact me to: https://www.linkedin.com/in/sebastianlondero/ :email:
 
 <hr>
 
-<u>A fast access to my deployed projects:</u>
+<u>A quick access to my deployed projects:</u>
 
 ▶️ https://xebadevs.github.io/Synchrophraser
 
