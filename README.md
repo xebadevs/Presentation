@@ -18,8 +18,8 @@ You can contact me to: https://www.linkedin.com/in/sebastianlondero/ :email:
 
 ▶️ https://xebadevs.github.io/Synchrophraser
 
-▶️ https://xebadevs.github.io/jquerybad/
+▶️ https://xebadevs.github.io/JQueryBad/
 
-▶️ https://coinversion.epizy.com/
+▶️ http://coinversion.epizy.com/
 
-▶️ https://keyme.epizy.com/
+▶️ http://keyme.epizy.com/
