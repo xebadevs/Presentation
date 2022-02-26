@@ -16,10 +16,10 @@ You can contact me to: https://www.linkedin.com/in/sebastianlondero/ :email:
 
 <u>A fast access to my deployed projects:</u>
 
-▶️ https://xebadevs.github.io/Synchrophraser \
+▶️ https://xebadevs.github.io/Synchrophraser
 
-▶️ https://xebadevs.github.io/jquerybad/ \
+▶️ https://xebadevs.github.io/jquerybad/
 
-▶️ https://coinversion.epizy.com/ \
+▶️ https://coinversion.epizy.com/
 
 ▶️ https://keyme.epizy.com/
