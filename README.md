@@ -10,7 +10,7 @@ My expectations are very high, and so is my dedication to this.
 
 Consequently, I let my differents projects and my code speaks for me!
 
-You can contact me to: https://www.linkedin.com/in/sebastianlondero/ :email:
+:email: You can contact me to: https://www.linkedin.com/in/sebastianlondero/
 
 <hr>
 
